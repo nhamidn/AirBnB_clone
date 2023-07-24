@@ -29,6 +29,7 @@ section.filters {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
+    position: relative;
 }
 
 .filters > div:first-child {
